@@ -5,8 +5,8 @@ require "jquery/datatables/tabletools/rails/version"
 Gem::Specification.new do |s|
   s.name        = "jquery-datatables-tabletools-rails"
   s.version     = Jquery::Datatables::TableTools::Rails::VERSION
-  s.authors     = ["Matthew Callaway"]
-  s.email       = ["mcallawa@genome.wustl.edu"]
+  s.authors     = ["Matthew Callaway","Christian Wiwie"]
+  s.email       = ["mcallawa@genome.wustl.edu","wiwiec@mpi-inf.mpg.de"]
   s.homepage    = "https://github.com/kindjal/jquery-datatables-tabletools-rails"
   s.summary     = %q{jquery datatables tabletools for rails}
   s.description = %q{}
